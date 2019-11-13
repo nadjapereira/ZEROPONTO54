@@ -1,5 +1,3 @@
-## Experimental project about research, business intelligence and content about consumer behaviour. 
-
 
 ### RESEARCH IN DIGITAL ANALYTICS
 Details studies of historical data from Sites, Social Media, Google Trends, Google Campaigns, PR, CRM, Mobile And Search for Brand Awareness And Performance for Planners, Pitchs and business strategies. 
